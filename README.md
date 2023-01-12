@@ -8,7 +8,7 @@ StAR is an Android app that leverages Augmented Reality to let users explore and
 
 + Look at your location's star map without needing a telescope.
 + Bring the moon to you with augmented reality.
-+ See the astronomy picture of the day with some infomation about it.
++ See the astronomy picture of the day with some information about it.
 
 ## Getting Started:
 ### Prerequisites
@@ -21,8 +21,6 @@ StAR is an Android app that leverages Augmented Reality to let users explore and
 1. Clone the repo
 
         git clone https://github.com/BaiDom/TBD-project.git
-
-        
 
 2. Run flutter pub get in the terminal
 
