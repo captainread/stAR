@@ -10,7 +10,7 @@ StAR is an Android app that leverages Augmented Reality to let users explore and
 + Bring the moon to you with augmented reality.
 + See the astronomy picture of the day with some information about it.
 
- :movie_camera: Watch the demo here: [stAR video demo](https://drive.google.com/file/d/1-jHJBpuVYF0akO_dgDp3QvGtZUKQA2ui/view)
+ :movie_camera: Watch the demo here: [stAR video demo](https://drive.google.com/file/d/1n6Z1M0TPfgaibwtKkZO_6cbe3FtZP0eQ/view?usp=sharing)
 
 ## Getting Started:
 ### Prerequisites
